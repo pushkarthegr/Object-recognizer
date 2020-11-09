@@ -1,0 +1,28 @@
+
+#camera{
+    border:2px black double;
+    width:440px;
+    height:320px;
+}
+#capturedImage{
+    width:400px;
+    height:400px;
+    border:2px black double;
+}
+body{
+    background: linear-gradient(to right,aqua 20%,rgb(46, 108, 189) 40%,blue 60%);
+    color:aqua;
+}
+.name_of_objects{
+    background-color: cadetblue;
+    border-radius:10px;
+    color:white;
+    font-size:25px;
+    margin:0px auto;
+    width:400px;
+}
+.heading{
+    width:350px;
+    font-weight: bold;
+    font-size: 30px;
+}
